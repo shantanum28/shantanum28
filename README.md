@@ -9,8 +9,6 @@
 
 - 📄 Know about my experiences [http://tinyurl.com/ResumeShantanuMeshram](http://tinyurl.com/ResumeShantanuMeshram)
 
-- ⚡ Fun fact **I enjoy filmmaking, bringing together a passion for storytelling with technical expertise in the art and craft of film production.**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/_itsshantanu_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_itsshantanu_" height="30" width="40" /></a>
