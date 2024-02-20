@@ -7,8 +7,6 @@
 
 - 📫 How to reach me **itsshantanumeshram@gmail.com**
 
-- 📄 Know about my experiences [http://tinyurl.com/ResumeShantanuMeshram](http://tinyurl.com/ResumeShantanuMeshram)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/_itsshantanu_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_itsshantanu_" height="30" width="40" /></a>
