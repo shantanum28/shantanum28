@@ -11,11 +11,13 @@ Hi, I'm *Shantanu Meshram*, a technical writer passionate about creating clear a
 
 ## Projects
 
-- [Safety Component Replacement](https://github.com/shantanum28/shantanum28/blob/main/Documentation/SCC_Replacement_Strategy_2025.pdf): Strategy for Developing Procedures to Replace Safety-Critical Vehicle Components
-- [Service Continuity Management](https://github.com/shantanum28/shantanum28/blob/main/Documentation/Service_Continuity_Management.pdf): Ensuring Ongoing Recovery Capability in IT Services
-- [Server Migration Services](https://github.com/shantanum28/shantanum28/blob/main/Documentation/Server_Migration_Services.pdf): Strategy for Transitioning Physical Servers to Virtualized Environments
-- [Watch Dogs 2](https://github.com/shantanum28/Watch-Dogs-2): Step-by-step Guide for Completing Missions in Watch Dogs 2
-- [Elden Ring](https://github.com/shantanum28/Elden-Ring): Step-by-step Guide for Defeating All Major Bosses in Elden Ring
+| **Project Name**                | **Description**                                                                 | **Link**                                                                                                              |
+|---------------------------------|---------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------|
+| Safety Component Replacement    | Strategy for developing procedures to replace safety-critical vehicle components | [View Document](https://github.com/shantanum28/shantanum28/blob/main/Documentation/SCC_Replacement_Strategy_2025.pdf) |
+| Service Continuity Management   | Ensuring ongoing recovery capability in IT services                              | [View Document](https://github.com/shantanum28/shantanum28/blob/main/Documentation/Service_Continuity_Management.pdf) |
+| Server Migration Services       | Strategy for transitioning physical servers to virtualized environments          | [View Document](https://github.com/shantanum28/shantanum28/blob/main/Documentation/Server_Migration_Services.pdf)     |
+| Watch Dogs 2                    | Step-by-step guide for completing missions in *Watch Dogs 2*                     | [View Repository](https://github.com/shantanum28/Watch-Dogs-2)                                                        |
+| Elden Ring                      | Step-by-step guide for defeating all major bosses in *Elden Ring*                | [View Repository](https://github.com/shantanum28/Elden-Ring)                                                          |
 
 ## **Education**
 
