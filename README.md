@@ -1,8 +1,6 @@
-## Hi there 👋
+## About Me
 
 Hi, I'm *Shantanu Meshram*, a technical writer passionate about creating clear and engaging documentation.
-
-## About Me
 
 📍 Chicago, IL  
 📞 872-258-6631  
