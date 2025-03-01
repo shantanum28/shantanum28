@@ -1,6 +1,6 @@
 ## About Me
 
-Hi, I'm *Shantanu Meshram*, a technical writer passionate about creating clear and engaging documentation.
+Hi, I'm *Shantanu Meshram*, a Technical Writer passionate about creating clear and engaging documentation.
 
 📍 Chicago, IL  
 📞 872-258-6631  
@@ -49,4 +49,4 @@ Python, Java, C++, HTML/CSS, JavaScript, XML, SQL
 AWS, Linux, Jenkins, REST APIs, Spark, Power BI, Tableau, Snagit  
 
 ### **Collaboration/Version Control**
-Git, GitLab, GitHub, Confluence, SharePoint, Jira
+Git, GitHub, Confluence, SharePoint, Jira
