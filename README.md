@@ -11,6 +11,7 @@ Hi, I'm *Shantanu Meshram*, a Technical Writer passionate about creating clear a
 
 | **Project Name**                | **Description**                                                                 | **Link**                                                                                                              |
 |---------------------------------|---------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------|
+| Network Troubleshooting Guide   | Comprehensive guide for diagnosing and resolving network issues                  | [View Document](https://github.com/shantanum28/shantanum28/blob/main/Documentation/Network_Troubleshooting_Guide)                                                     |
 | Safety Component Replacement    | Strategy for developing procedures to replace safety-critical vehicle components | [View Document](https://github.com/shantanum28/shantanum28/blob/main/Documentation/SCC_Replacement_Strategy_2025.pdf) |
 | Service Continuity Management   | Ensuring ongoing recovery capability in IT services                              | [View Document](https://github.com/shantanum28/shantanum28/blob/main/Documentation/Service_Continuity_Management.pdf) |
 | Server Migration Services       | Strategy for transitioning physical servers to virtualized environments          | [View Document](https://github.com/shantanum28/shantanum28/blob/main/Documentation/Server_Migration_Services.pdf)     |
