@@ -31,11 +31,11 @@ Chicago, IL
 *May 2024 – Present*  
 Chicago, IL  
 
-- Authored and maintained technical documentation, including inspection and test plans, standard operating procedures (SOPs), and procedural guides, ensuring clarity and compliance with organizational standards.  
-- Collaborated with engineers and project managers to gather technical insights and translate them into user-friendly documentation for internal and external stakeholders.  
-- Created process maps to document workflows for operational improvements, reducing inefficiencies in a fast-paced environment.  
-- Designed standardized templates and checklists to improve quality control inspections across multiple teams, ensuring consistency in manufacturing processes.  
-- Conducted quality assurance reviews of documentation to ensure deliverables meet user expectations and adhere to strict project deadlines.  
+- Conducted thorough reviews of 500+ published materials per quarter to identify areas for improvement, recommending revisions that enhanced clarity, accuracy, and compliance with organizational standards, resulting in a 20% reduction in editorial errors.
+- Created 100+ new procedural documents, including specifications, inspection/test plans, and SOPs, aligning with current best practices to ensure consistency and effectiveness across the organization, improving operational efficiency by 15%.
+- Developed and implemented standardized formatting and style guidelines for technical documents, increasing consistency across organizational materials and improving readability scores by 25% for diverse audiences.
+- Played a key role in organizing and maintaining the technical document library, ensuring over 5000+ documents were up-to-date, easily accessible, and compliant with organizational standards, reducing retrieval time by 30%.
+- Utilized strong project management skills to coordinate tasks, set priorities, and ensure the timely completion of projects ahead of deadlines, collaborating with team members across 5+ departments, and adapting to multiple changing project requirements effectively in a fast paced environment.
 
 ## **Technical Skills**
 
