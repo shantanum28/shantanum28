@@ -1,4 +1,4 @@
-# OpenWeatherMap Current Weather Data API - Comprehensive Documentation
+# OpenWeatherMap Current Weather Data API
 
 **Version:** 2.5  
 **Base URL:** `https://api.openweathermap.org/data/2.5/weather`
@@ -1296,7 +1296,6 @@ def debug_weather_response(response_data):
 
 ### Official Documentation and Tools
 
-- **Main API Documentation:** [OpenWeatherMap Current Weather API]
 - **City List Download:** [Bulk City List](http://bulk.openweathermap.org/sample/)
 - **Weather Condition Codes:** [Weather Icons and Conditions](https://openweathermap.org/weather-conditions)
 - **API Pricing Plans:** [Subscription Plans](https://openweathermap.org/price)
